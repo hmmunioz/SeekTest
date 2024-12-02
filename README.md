@@ -34,6 +34,7 @@ lib/
 │   │   ├── task/       # Task screen-specific widgets and pages
 │   ├── utils/          # Helper classes and extensions
 │   └── main.dart       # Entry point of the application
+│   └── app-release.apk # Apk
 ├── test/
 │   └── test.mocks.dart # Auto-generated mocks for tests
 ```
@@ -54,7 +55,6 @@ lib/
 
    ```bash
    git clone <repository-url>
-   cd task-management-app
    ```
 
 2. Install dependencies:

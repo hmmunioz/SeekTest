@@ -12,6 +12,7 @@ This is a Flutter-based task management application that helps users organize th
 - Pagination support for tasks.
 - Integrated with `BLoC` for state management.
 - Unit-tested using `bloc_test` and `mockito`.
+- Included (Dark Mode and Language change es, en)
 
 ---
 
